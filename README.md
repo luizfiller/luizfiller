@@ -18,6 +18,14 @@ const lui = {
 ```
 <!--- inspirado no README.md da Thaiane Braga(https://github.com/Thaiane/Thaiane/blob/master/README.md) --->
 
+## 
+<div>
+  <h3 align="left">Iniciativas próprias:</h3>
+    <h4>Algoritmos que mais gostei de desenvolver:</h4>  
+      <ul>
+        <li><a href="https://github.com/luizfiller/algoritmo_sptech/tree/main/Testes_Extras/testes_css/pokemon">Análise de Pokémon</a></li>
+      </ul>
+ </div>
 
 ##
 <img align='right' src="https://dynamic.thoughtworks.com/landing_pages/image0-3bfa4977dcfc3a69f0b4c2addd210880.jpeg" width="200">
