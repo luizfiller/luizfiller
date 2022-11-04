@@ -3,15 +3,14 @@
 
 ```javascript
 const lui = {
-  pronomes: "Ele" | "Dele";
-  sobre: "Psicólogo se aventurando pela programação";
-  atualidade: "Estudando HTML5, CSS3, JavaScript e SQL";
-  linguagens: ["Trabalhando nisso..."];
-  ferramentas: ["Trabalhando nisso..."];
-  arquitetura: ["Trabalhando nisso..."];
+  pronomes: ["Ele", "Dele"],
+  sobre: "Psicólogo se aventurando pela programação",
+  atualidade: "Estudando Arduino, HTML5, CSS3, JavaScript e SQL",
+  linguagens: ["HTML", "CSS", "JS", "SQL"],
+  ferramentas: ["Trabalhando nisso..."],
   hobbies: {
-                  lazer: "Fotografia", "Café", "Plantas";
-                  acadêmico: "Ciência do Comportamento";
+                  lazer: ["Fotografia", "Café", "Plantas"],
+                  acadêmico: "Ciência do Comportamento",
                 },
  desafio: "Estudar os Fundamentos de Lógica de Programação. Hiperfoco nos algoritmos."
 }
